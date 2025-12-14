@@ -102,7 +102,7 @@ Total keseluruhan: 4.999 citra (memenuhi kriteria minimal ≥ 1.000 citra)
 ```
 
 Kelompok 6 MLOps RC
-- Ranippu
-- Ratu
-- Anwar
-- Yohana
+- Rani Puspita Sari (122450030)
+- Ratu Keisha Jasmine Deanova (122450106)
+- Anwar Muslim (122450117)
+- Yohana Manik (122450126)

@@ -100,3 +100,9 @@ Total keseluruhan: 4.999 citra (memenuhi kriteria minimal ≥ 1.000 citra)
 | - Continuous Improvement   |
 +-----------------------------+
 ```
+
+Kelompok 6 MLOps RC
+- Ranippu
+- Ratu
+- Anwar
+- Yohana
